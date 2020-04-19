@@ -1,5 +1,5 @@
 # MyCodes
-Praise the Lord
+Praise the Lord.
 These are little efforts that I do everyday with the great support of TestLeaf team and group members.
 Hoping for the best in the days to come.
 Learning from Day2: (Nykaa) Xpath for dropdown must include the <select> tag when hierarchaly tracked.
