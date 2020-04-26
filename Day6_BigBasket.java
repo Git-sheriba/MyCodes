@@ -87,8 +87,8 @@ public class Day6_BigBasket {
 		driver.findElementByXPath("(//button[@class='btn btn-add col-xs-9'])[3]").click();
 
 		// Success message for the purchase of dal.
-		WebElement dalATOSuccess = driver.findElementByXPath("//div[@class='toast-title']");
-		if (dalATOSuccess.isDisplayed()) {
+		WebElement dalSuccess = driver.findElementByXPath("//div[@class='toast-title']");
+		if (dalSuccess.isDisplayed()) {
 			driver.findElementByClassName("toast-close-button").click();
 		}
 
